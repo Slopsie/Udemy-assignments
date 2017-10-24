@@ -1,0 +1,7 @@
+C:\Users\Slopsie\source\repos\conditionalstatements1\conditionalstatements1\bin\Debug\conditionalstatements1.exe.config
+C:\Users\Slopsie\source\repos\conditionalstatements1\conditionalstatements1\bin\Debug\conditionalstatements1.exe
+C:\Users\Slopsie\source\repos\conditionalstatements1\conditionalstatements1\bin\Debug\conditionalstatements1.pdb
+C:\Users\Slopsie\source\repos\conditionalstatements1\conditionalstatements1\obj\Debug\conditionalstatements1.csprojResolveAssemblyReference.cache
+C:\Users\Slopsie\source\repos\conditionalstatements1\conditionalstatements1\obj\Debug\conditionalstatements1.csproj.CoreCompileInputs.cache
+C:\Users\Slopsie\source\repos\conditionalstatements1\conditionalstatements1\obj\Debug\conditionalstatements1.exe
+C:\Users\Slopsie\source\repos\conditionalstatements1\conditionalstatements1\obj\Debug\conditionalstatements1.pdb
