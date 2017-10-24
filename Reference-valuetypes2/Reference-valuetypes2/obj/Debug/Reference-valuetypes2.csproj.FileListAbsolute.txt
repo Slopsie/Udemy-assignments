@@ -1,0 +1,7 @@
+C:\Users\Slopsie\source\repos\Reference-valuetypes2\Reference-valuetypes2\bin\Debug\Reference-valuetypes2.exe.config
+C:\Users\Slopsie\source\repos\Reference-valuetypes2\Reference-valuetypes2\bin\Debug\Reference-valuetypes2.exe
+C:\Users\Slopsie\source\repos\Reference-valuetypes2\Reference-valuetypes2\bin\Debug\Reference-valuetypes2.pdb
+C:\Users\Slopsie\source\repos\Reference-valuetypes2\Reference-valuetypes2\obj\Debug\Reference-valuetypes2.csprojResolveAssemblyReference.cache
+C:\Users\Slopsie\source\repos\Reference-valuetypes2\Reference-valuetypes2\obj\Debug\Reference-valuetypes2.csproj.CoreCompileInputs.cache
+C:\Users\Slopsie\source\repos\Reference-valuetypes2\Reference-valuetypes2\obj\Debug\Reference-valuetypes2.exe
+C:\Users\Slopsie\source\repos\Reference-valuetypes2\Reference-valuetypes2\obj\Debug\Reference-valuetypes2.pdb
