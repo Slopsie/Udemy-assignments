@@ -1,0 +1,6 @@
+C:\Users\Slopsie\source\repos\conditionalstatements2\conditionalstatements2\bin\Debug\conditionalstatements2.exe.config
+C:\Users\Slopsie\source\repos\conditionalstatements2\conditionalstatements2\bin\Debug\conditionalstatements2.exe
+C:\Users\Slopsie\source\repos\conditionalstatements2\conditionalstatements2\bin\Debug\conditionalstatements2.pdb
+C:\Users\Slopsie\source\repos\conditionalstatements2\conditionalstatements2\obj\Debug\conditionalstatements2.csproj.CoreCompileInputs.cache
+C:\Users\Slopsie\source\repos\conditionalstatements2\conditionalstatements2\obj\Debug\conditionalstatements2.exe
+C:\Users\Slopsie\source\repos\conditionalstatements2\conditionalstatements2\obj\Debug\conditionalstatements2.pdb
