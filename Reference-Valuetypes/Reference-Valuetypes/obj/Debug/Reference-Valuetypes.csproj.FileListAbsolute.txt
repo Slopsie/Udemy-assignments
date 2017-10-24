@@ -1,0 +1,7 @@
+C:\Users\Slopsie\source\repos\Reference-Valuetypes\Reference-Valuetypes\bin\Debug\Reference-Valuetypes.exe.config
+C:\Users\Slopsie\source\repos\Reference-Valuetypes\Reference-Valuetypes\bin\Debug\Reference-Valuetypes.exe
+C:\Users\Slopsie\source\repos\Reference-Valuetypes\Reference-Valuetypes\bin\Debug\Reference-Valuetypes.pdb
+C:\Users\Slopsie\source\repos\Reference-Valuetypes\Reference-Valuetypes\obj\Debug\Reference-Valuetypes.csprojResolveAssemblyReference.cache
+C:\Users\Slopsie\source\repos\Reference-Valuetypes\Reference-Valuetypes\obj\Debug\Reference-Valuetypes.csproj.CoreCompileInputs.cache
+C:\Users\Slopsie\source\repos\Reference-Valuetypes\Reference-Valuetypes\obj\Debug\Reference-Valuetypes.exe
+C:\Users\Slopsie\source\repos\Reference-Valuetypes\Reference-Valuetypes\obj\Debug\Reference-Valuetypes.pdb
