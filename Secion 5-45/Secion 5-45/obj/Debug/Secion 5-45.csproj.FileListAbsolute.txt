@@ -1,0 +1,7 @@
+C:\Users\Slopsie\source\repos\Secion 5-45\Secion 5-45\bin\Debug\Secion 5-45.exe.config
+C:\Users\Slopsie\source\repos\Secion 5-45\Secion 5-45\bin\Debug\Secion 5-45.exe
+C:\Users\Slopsie\source\repos\Secion 5-45\Secion 5-45\bin\Debug\Secion 5-45.pdb
+C:\Users\Slopsie\source\repos\Secion 5-45\Secion 5-45\obj\Debug\Secion 5-45.csprojResolveAssemblyReference.cache
+C:\Users\Slopsie\source\repos\Secion 5-45\Secion 5-45\obj\Debug\Secion 5-45.csproj.CoreCompileInputs.cache
+C:\Users\Slopsie\source\repos\Secion 5-45\Secion 5-45\obj\Debug\Secion 5-45.exe
+C:\Users\Slopsie\source\repos\Secion 5-45\Secion 5-45\obj\Debug\Secion 5-45.pdb
