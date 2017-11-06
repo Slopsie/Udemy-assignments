@@ -1,0 +1,7 @@
+C:\Users\Sjors\source\repos\Section 5-46\Section 5-46\bin\Debug\Section 5-46.exe.config
+C:\Users\Sjors\source\repos\Section 5-46\Section 5-46\bin\Debug\Section 5-46.exe
+C:\Users\Sjors\source\repos\Section 5-46\Section 5-46\bin\Debug\Section 5-46.pdb
+C:\Users\Sjors\source\repos\Section 5-46\Section 5-46\obj\Debug\Section 5-46.csprojResolveAssemblyReference.cache
+C:\Users\Sjors\source\repos\Section 5-46\Section 5-46\obj\Debug\Section 5-46.csproj.CoreCompileInputs.cache
+C:\Users\Sjors\source\repos\Section 5-46\Section 5-46\obj\Debug\Section 5-46.exe
+C:\Users\Sjors\source\repos\Section 5-46\Section 5-46\obj\Debug\Section 5-46.pdb
